@@ -1,0 +1,78 @@
+.buy {
+    font-family: 'Teko',
+        sans-serif;
+        margin-bottom: 250px;
+        height: 100vh;
+}
+
+.card {
+    border-radius: 20px;
+    width: 250px;
+}
+
+.img-shop {
+    width: 150px;
+    height: 150px;
+    margin-left: 30px;
+}
+
+.pro-name {
+    font-weight: 900;
+    text-align: center;
+}
+.h2k 
+{
+    text-align: center;
+    font-size: 50px;
+    font-weight: 800;
+}
+.card:hover button
+{
+    background: red;
+    color: #000;
+}
+.boxContainer
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 50px;
+}
+.boxContainer .boxSearch
+{
+    position: relative;
+    width: 500px;
+    height: 42px;
+    border: 4px solid #2980b9;
+    border-radius: 50px;
+    display: flex;
+}
+.boxContainer .boxSearch .search
+{
+    width: 90%;
+    position: relative;
+    border-radius: 50px;
+    padding: 0 10px;
+    font-size: 20px;
+    border: none;
+}
+.boxContainer .boxSearch .search:focus
+{
+    outline: none;
+}
+.boxContainer .boxSearch .boxBtn button
+{
+    width: 10%;
+    border: none;
+    background: none;
+    font-size: 20px;
+    margin-left: 17px;
+}
+.boxContainer .boxSearch .boxBtn .bx 
+{
+    margin-top: 7px;
+}
+.pk1
+{
+    margin-bottom: 20px;
+}

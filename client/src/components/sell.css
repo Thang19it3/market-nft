@@ -1,0 +1,129 @@
+.sell {
+    font-family: 'Teko',
+        sans-serif;
+    display: flex;
+    height: 100vh;
+}
+
+.sell1 h1 {
+    text-align: center;
+    font-size: 30px;
+    font-weight: 700;
+}
+
+.sell1 .sell-name label {
+    font-size: 15px;
+}
+
+.sell1 .sell-name input {
+    padding: 20px 20px;
+}
+
+.sell1 .sell-price label {
+    font-size: 15px;
+}
+
+.sell1 .sell-price input {
+    padding: 20px 20px;
+}
+
+.sell1 button {
+    width: 150px;
+    font-size: 20px;
+    margin-left: 30%;
+    margin-bottom: 50px;
+    margin-top: 30px;
+}
+
+.h5k {
+    text-align: center;
+    font-size: 30px;
+    font-weight: 700;
+    margin-left: 30%;
+}
+.sell .img-1
+{
+    padding: 0px;
+    margin: 0px;
+    background: #0b1126;
+    margin: 0;
+    padding: 0;
+    width: 350px;
+    border-radius: 20px;
+    height: 500px;
+}
+.sell .img-11
+{
+    position: relative;
+    padding: 0px;
+    margin: 0px;
+    width: 400px;
+    height: 150px;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    z-index: 10;
+}
+.sell .user1
+{
+    margin-left: 135px;
+    margin-right: 100px;
+    position: relative;
+    width: 100px;
+    border-radius: 50%;
+    margin-top: -50px;
+    z-index: 99;
+}
+.sell .img-name
+{
+    color: #fff;
+    font-weight: 900;
+    padding-top: 30px;
+}
+.sell .mxh 
+{
+    padding-left: 30px;
+}
+.sell .mxh .bx 
+{
+    padding: 10px 10px;
+    background-color: #171e2d;
+    margin: 5px 5px;
+    font-size: 30px;
+    color: #fff;
+}
+.sell h3 
+{
+    text-align: center;
+}
+.sell p 
+{
+    text-align: center;
+    color: #fff;
+}
+.sell .btn-img
+{
+    margin-top: 30px;
+    padding: 10px 40px;
+    font-size: 20px;
+    border-radius: 20px;
+    font-weight: 900;
+    margin-left: 120px;
+}
+.sell1
+{
+    width: 800px;
+    background: #0b1126;
+    border-radius: 20px;
+    padding-left: 100px;
+    padding-right: 100px;
+    padding-top: 50px;
+    padding-bottom: 100px;
+    margin-left: 40px;
+    color: #fff;
+    height: 600px;
+}
+.sell1 form 
+{
+    padding-left: 50px;
+    padding-right: 100px;
+}

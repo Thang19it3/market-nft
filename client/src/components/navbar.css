@@ -1,0 +1,80 @@
+.hihi 
+{
+    height: 100px;
+}
+.topTop {
+    width: 100%;
+    height: 30px;
+    background-color: black;
+    margin-bottom: 10px;
+    margin-left: 0;
+    margin-right: 0;
+    display: flex;
+    color: #fff;
+}
+
+.topBar {
+    font-family: 'Teko',
+        sans-serif;
+    width: 100%;
+    height: 50px;
+    position: sticky;
+    top: 0;
+    display: flex;
+    color: #fff;
+    z-index: 9999;
+    box-shadow: 0 2px 2px -2px rgba(0, 0, 0, .2);
+}
+
+.topLeft,
+.topRight {
+    flex: 5;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.topLeft {
+    justify-content: right;
+}
+
+.topRight {
+    justify-content: left;
+}
+
+.topCenter {
+    flex: 2;
+
+}
+
+.topImg {
+    width: 80px;
+    height: 45px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding-right: 30px;
+}
+
+.topItem {
+    display: flex;
+    justify-content: center;
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+.topItem li 
+{
+    margin-right: 40px;
+    font-size: 2rem;
+    font-weight: 300;
+    cursor: pointer;
+    list-style: none;
+    color: #fff;
+}
+.nav-item link
+{
+    list-style: none;
+    text-decoration: none;
+}
